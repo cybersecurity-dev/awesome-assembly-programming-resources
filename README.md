@@ -20,7 +20,15 @@
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
 
-## Books
+## 📖 Contents
+- [Books](#books)
+- [Videos](#videos)
+    - [Video Series](#video-series) 
+- [My Other Awesome Lists](#my-other-awesome-lists)
+- [Contributing](#contributing)
+- [Contributors](#contributors)
+
+### Books
 * Intel
     * [The Art of 64-Bit Assembly, Volume 1: x86-64 Machine Organization and Programming](https://www.amazon.com/Art-64-Bit-Assembly-Language-ebook/dp/B08H177DFB)
     * [The Art of 64-Bit Assembly, Volume 2: Machine-Level OOP, Exceptions, and Concurrency](https://www.amazon.com/Art-64-Bit-Assembly-Advanced-Language-ebook/dp/B0FLB438RC)
@@ -28,18 +36,19 @@
 * ARM
     * [The Art of ARM Assembly, Volume 1: 64-Bit ARM Machine Organization and Programming](https://www.amazon.com/Art-ARM-Assembly-Randall-Hyde/dp/1718502826)
 
-## Videos
+### Videos
 
 * [C to Assembly by MIT OpenCourseWare](https://youtu.be/wt7a5BOztuM?si=_Ul2f91nD4z_pGm-)
 * [Assembly Language & Computer Architecture by MIT OpenCourseWare](https://youtu.be/L1ung0wil9Y?si=Yj2C1hLofKAiguIR)
 * [Modern X86 Assembly Language Programming • Daniel Kusswurm & Matt Godbolt • GOTO 2025](https://youtu.be/L2Qu9rk05rE?si=Y-amR2DxZhrNUNv4)
 * [x86 NASM Assembly Crash Course by @UMBCIEEE](https://youtu.be/DNPjBvZxE3E?si=6DlGMV_Rba3C62Bz)
-### Video Series
+
+#### Video Series
 
 * [x86 Assembly with NASM by @olivestemlearning](https://youtube.com/playlist?list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&si=AiSdoKwe9n1Qj0BI)
 * [Intro to x86 Assembly Language by @DavyBot](https://youtube.com/playlist?list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe&si=YQd2A6sn7v1RRnr4)
 
-## Blog
+### Blog
 
 
 ##
