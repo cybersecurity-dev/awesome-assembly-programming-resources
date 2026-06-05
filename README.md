@@ -42,6 +42,8 @@
 * [Assembly Language & Computer Architecture by MIT OpenCourseWare](https://youtu.be/L1ung0wil9Y?si=Yj2C1hLofKAiguIR)
 * [Modern X86 Assembly Language Programming • Daniel Kusswurm & Matt Godbolt • GOTO 2025](https://youtu.be/L2Qu9rk05rE?si=Y-amR2DxZhrNUNv4)
 * [x86 NASM Assembly Crash Course by @UMBCIEEE](https://youtu.be/DNPjBvZxE3E?si=6DlGMV_Rba3C62Bz)
+* [DEF CON 25 - XlogicX - Assembly Language is Too High Level](https://youtu.be/eunYrrcxXfw?si=_rB8Tb5GIVhLgOlR) 
+* [x86 NASM Assembly Crash Course](https://youtu.be/DNPjBvZxE3E?si=DLhPlrNxpGKnhO0_)
 
 #### Video Series
 
@@ -60,7 +62,9 @@ You can access the my other awesome lists [here](https://cyberthreatdefence.com/
 [Contributions of any kind welcome, just follow the guidelines](contributing.md)!
 
 ### Contributors
-
 [Thanks goes to these contributors](https://github.com/cybersecurity-dev/awesome-assembly-language-resources/graphs/contributors)!
+
+### License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
 [🔼 Back to top](#awesome-assembly-language-resources-)
