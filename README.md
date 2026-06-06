@@ -24,6 +24,7 @@
 - [Books](#books)
 - [Videos](#videos)
     - [Video Series](#video-series) 
+- [Tools](#tools)
 - [My Other Awesome Lists](#my-other-awesome-lists)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
@@ -49,6 +50,10 @@
 
 * [x86 Assembly with NASM by @olivestemlearning](https://youtube.com/playlist?list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&si=AiSdoKwe9n1Qj0BI)
 * [Intro to x86 Assembly Language by @DavyBot](https://youtube.com/playlist?list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe&si=YQd2A6sn7v1RRnr4)
+
+### Tools
+
+* [assembly-repl](https://github.com/pirate/assembly-repl) - A small native assembly, WebAssembly, LLVM IR, C, C++, and Objective-C REPL for macOS and Linux.
 
 ### Blog
 
